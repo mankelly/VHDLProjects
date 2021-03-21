@@ -28,21 +28,6 @@ begin
     -- Set read
     rd <= not empty; -- always read when not empty
     
-    -- Reset Logic
---    rst : process(clk, reset) is 
---    begin
---        if rising_edge(clk) then
---            if reset = '1' then
---                --Y       <= x"00";
---                --instr   <= x"00";
---                --pc      <= x"00";
---            end if;
---        end if;
-        
---    end process;
-    -- DONT DO THIS, WE ALREADY INSTANTIATED CONNECTS FOR RESET IN EACH MODULE. DOING THIS
-    -- WILL BREAK OUR CODE. VALUES ARE ASSIGNED FOR RESET IN EACH MODULE!!!!
-    
     -- fifo_ctrl for instr mem
     instr_ctrl : entity work.fifo_ctrl(Behavioral)
     generic map(ADDR_WIDTH => ADDR_WIDTH)
