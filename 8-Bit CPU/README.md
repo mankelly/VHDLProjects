@@ -1,5 +1,5 @@
 # 8-bit CPU [Manuel Kelly]
-### 8-bit RISC CPU written in SystemVerilog [INCOMPLETE TESTBENCH]
+### 8-bit RISC CPU written in VHDL [INCOMPLETE TESTBENCH]
 * TB does not show all operations.
 * All ALU instructions were followed by this [Wikipedia page](https://en.wikipedia.org/wiki/Arithmetic_logic_unit).
 * For simplicity of testbenching, this CPU can write instructions to be written to memory.
@@ -41,8 +41,8 @@
 
 |RTL Design|
 | :--------: |
-|![RTL Design](https://github.com/mankelly/VerilogProjects/blob/1040136a56196a6bf64ee55356eb4fdfa4786470/8-bit%20CPU/images/RTL_Design.PNG)|
+|![RTL Design](https://github.com/mankelly/VHDLProjects/blob/main/8-Bit%20CPU/images/8_BIT_ARCH.PNG)|
 
 |Testbench1|
 | :--------: |
-|![TB1](https://github.com/mankelly/VerilogProjects/blob/a88aa6bab3003fe54ee7b314b9484a62cb4bf4c4/8-bit%20CPU/images/tb1.PNG)|
+|![TB1](https://github.com/mankelly/VHDLProjects/blob/main/8-Bit%20CPU/images/VHDL_8_BIT_CPU.PNG)|
