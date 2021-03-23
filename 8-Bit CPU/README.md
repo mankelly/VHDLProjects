@@ -43,6 +43,6 @@
 | :--------: |
 |![RTL Design](https://github.com/mankelly/VHDLProjects/blob/main/8-Bit%20CPU/images/8_BIT_ARCH.PNG)|
 
-|Testbench1|
+|[Testbench1](https://github.com/mankelly/VHDLProjects/blob/main/8-Bit%20CPU/top_tb.vhd)|
 | :--------: |
 |![TB1](https://github.com/mankelly/VHDLProjects/blob/main/8-Bit%20CPU/images/VHDL_8_BIT_CPU.PNG)|
