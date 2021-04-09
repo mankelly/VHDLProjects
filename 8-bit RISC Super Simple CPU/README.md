@@ -40,10 +40,22 @@
 | 4'b1111 | HALT | N/A |
 
 
-|RTL Design|
+|RTL Design [ALL FOLDED]|
 | :--------: |
-|![RTL Design]()|
+|![RTL Design [ALL FOLDED]](https://github.com/mankelly/VHDLProjects/blob/main/8-bit%20RISC%20Super%20Simple%20CPU/images/8-bit%20Super%20Simple%20CPU%20%5BFOLDED%5D.PNG)|
+
+|RTL Design [ALL UNFOLDED]|
+| :--------: |
+|![RTL Design [ALL UNFOLDED]](https://github.com/mankelly/VHDLProjects/blob/main/8-bit%20RISC%20Super%20Simple%20CPU/images/8-bit%20Super%20Simple%20CPU%20%5BUNFOLDED%5D.PNG)|
+
+|RTL Design [DATA PATH UNFOLDED]|
+| :--------: |
+|![RTL Design [DATA PATH UNFOLDED]](https://github.com/mankelly/VHDLProjects/blob/main/8-bit%20RISC%20Super%20Simple%20CPU/images/8-bit%20Super%20Simple%20CPU%20Data%20Path.PNG)|
+
+|RTL Design [CONTROL UNFOLDED]|
+| :--------: |
+|![RTL Design [CONTROL UNFOLDED]](https://github.com/mankelly/VHDLProjects/blob/main/8-bit%20RISC%20Super%20Simple%20CPU/images/8-bit%20Super%20Simple%20CPU%20Control.PNG)|
 
 |[Testbench1]()|
 | :--------: |
-|![TB1]()|
+|![TB1](https://github.com/mankelly/VHDLProjects/blob/main/8-bit%20RISC%20Super%20Simple%20CPU/images/8-bit%20Super%20Simple%20CPU%20TestBench.PNG)|
