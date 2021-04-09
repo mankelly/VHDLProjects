@@ -56,6 +56,6 @@
 | :--------: |
 |![RTL Design [CONTROL UNFOLDED]](https://github.com/mankelly/VHDLProjects/blob/main/8-bit%20RISC%20Super%20Simple%20CPU/images/8-bit%20Super%20Simple%20CPU%20Control.PNG)|
 
-|[Testbench1]()|
+|[Testbench1](https://github.com/mankelly/VHDLProjects/blob/main/8-bit%20RISC%20Super%20Simple%20CPU/cpu_tb.vhd)|
 | :--------: |
 |![TB1](https://github.com/mankelly/VHDLProjects/blob/main/8-bit%20RISC%20Super%20Simple%20CPU/images/8-bit%20Super%20Simple%20CPU%20TestBench.PNG)|
